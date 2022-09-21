@@ -1,0 +1,12 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="8.063379000008107">
+<testsuite name="TC001.spec.js" timestamp="1663772074823" hostname="" tests="2" failures="0" skipped="0" time="5.256" errors="0">
+<testcase name="Browser Context" classname="TC001.spec.js:11:1 › Browser Context" time="3.783">
+<system-out>
+<![CDATA[TEST AMPLIFY
+]]>
+</system-out>
+</testcase>
+<testcase name="Page Context" classname="TC001.spec.js:25:1 › Page Context" time="1.473">
+</testcase>
+</testsuite>
+</testsuites>

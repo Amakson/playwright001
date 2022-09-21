@@ -1,0 +1,17 @@
+{
+  "name": "qaqc_v2",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://Willdan-WLE@dev.azure.com/Willdan-WLE/QAQC_Viewpoint/_git/QAQC_V2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.2"
+  }
+}
